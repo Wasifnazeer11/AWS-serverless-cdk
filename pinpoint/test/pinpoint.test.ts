@@ -1,13 +1,13 @@
 // import * as cdk from 'aws-cdk-lib';
 // import { Template } from 'aws-cdk-lib/assertions';
-// import * as Npxpackage from '../lib/npxpackage-stack';
+// import * as Pinpoint from '../lib/pinpoint-stack';
 
 // example test. To run these tests, uncomment this file along with the
-// example resource in lib/npxpackage-stack.ts
+// example resource in lib/pinpoint-stack.ts
 test('SQS Queue Created', () => {
 //   const app = new cdk.App();
 //     // WHEN
-//   const stack = new Npxpackage.NpxpackageStack(app, 'MyTestStack');
+//   const stack = new Pinpoint.PinpointStack(app, 'MyTestStack');
 //     // THEN
 //   const template = Template.fromStack(stack);
 
